@@ -1,4 +1,4 @@
-# helloworld-cmake
+# helloworld-cmake-hello
 
 This sample is showing you how you can use cmake and CMakeLists.txt file to compile your c++ application.
 
